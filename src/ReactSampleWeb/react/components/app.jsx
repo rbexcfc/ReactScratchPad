@@ -1,7 +1,7 @@
 import React from 'react';
 
 const app = () => (
-        <p>Hello World</p>
+    <p>Hello World</p>
 );
 
 export default app;

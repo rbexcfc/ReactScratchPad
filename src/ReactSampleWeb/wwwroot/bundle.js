@@ -18283,20 +18283,9 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 var app = function app() {
     return _react2.default.createElement(
-        'div',
+        'p',
         null,
-        _react2.default.createElement(
-            'p',
-            null,
-            'Hello Rich'
-        ),
-        _react2.default.createElement(
-            'p',
-            null,
-            'It is ',
-            new Date().toLocaleTimeString(),
-            '.'
-        )
+        'Hello World'
     );
 };
 
